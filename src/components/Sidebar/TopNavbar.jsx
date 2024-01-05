@@ -100,7 +100,7 @@ const TopNavbar = () => {
         }}
       >
         <p style={{ color: "blue", fontSize: "13px" }}>
-          Hot Metal Silicon Prediction{" "}
+          Warm Metal Silicon Prediction{" "}
         </p>
       </div>
 
